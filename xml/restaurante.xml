@@ -1,0 +1,266 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<menu>
+<plato tipo1="Para picar">
+            <title>Torreznos de Soria</title>
+            <description> Potentes y crujientes, sencillamente brutales.</description>
+            <precio>10,95€</precio>
+            <calorias>280 calorias por piezas</calorias>
+                <extras> 
+               <signo torreznos="bacon"></signo>
+          </extras>
+      </plato>
+
+<plato tipo1="Para picar">
+            <title>Ensalada Bar mi casa</title>
+            <description> De la huerta con atún.</description>
+            <precio>11,95€</precio>
+            <calorias>187 calorias por piezas</calorias>
+               <extras> 
+               <signo verdura="vegetal"></signo>
+          </extras>
+      </plato>
+
+    <plato tipo1="Para picar">
+            <title>Tabla de jamón iberico</title>
+            <description> Con pan con tomate</description>
+            <precio>17,55€</precio>
+            <calorias>400 calorias</calorias>
+               <extras> 
+               <signo panecito="pan"></signo>
+          </extras>
+      </plato>
+
+    <plato tipo1="Para picar">
+            <title>Tequeños venezolanos con confitura de tomates </title>
+            <description> De Cal Malmo y nuestra salsa secreta </description>
+            <precio>8,95€</precio>
+            <calorias>400 calorias</calorias>
+       </plato>
+
+       <plato tipo1="Para picar">
+            <title>Tako-yaki japones </title>
+            <description> Buñuelo de pulpo y verduritas con mayonesa de la vera</description>
+            <precio>8,95€</precio>
+            <calorias>460 calorias</calorias>
+       </plato>
+
+      <plato tipo2="Tapas">
+            <title>Gambas a la plancha </title>
+            <description>Gambas del Mediterraneo hechas a la plancha </description>
+            <precio>16,90€</precio>
+            <calorias>1060 calorias</calorias>
+               <extras> 
+               <signo gambita="gamba"></signo>
+          </extras>
+       </plato>
+
+        <plato tipo2="Tapas">
+            <title>Sepia premium a la plancha </title>
+            <description>De las mejores sepias que se pueden encontrar en el mundo</description>
+            <precio>14,95€</precio>
+            <calorias>200 calorias</calorias>
+               <extras> 
+               <signo exclusivo="premium"></signo>
+          </extras>
+       </plato>
+
+        <plato tipo2="Tapas">
+            <title>Carne en salsa</title>
+            <description>Puedes elegir como quieres la carne poco hecha,muy hecha,al punto etc...</description>
+            <precio>11,95€</precio>
+            <calorias>576 calorias</calorias>
+       </plato>
+
+       <plato tipo2="Tapas">
+            <title>Callos con chorizo de sidreria</title>
+            <description>Callos hechas por la abuela Carmen que rico!!!!</description>
+            <precio>11,60€</precio>
+            <calorias>777 calorias</calorias>
+       </plato>
+
+       <plato tipo2="Tapas">
+            <title>Cazuela de pincho</title>
+            <description>La cazuela de pincho mejor del pueblo</description>
+            <precio>11,50€</precio>
+            <calorias>233 calorias</calorias>
+       </plato>
+
+       <plato tipo3="Hamburguesas">
+            <title>Burger de pollo</title>
+            <description>Pollo rebozado,mayonesa al curry, miel y mostaza acompañadas con patatas fritas</description>
+            <precio>11,50€</precio>
+            <calorias>583 calorias</calorias>
+             <extras> 
+               <signo pollito="pollo" hamburgesita="hamburguesa"></signo>
+          </extras>
+          </plato>
+
+        <plato tipo3="Hamburguesas">
+            <title>Burger Americana</title>
+            <description>200GR de ternera de Girona con huevo, bacon crispy, tomate y cebolla caramelizada acompañadas con patatas fritas</description>
+            <precio>12,50€</precio>
+            <calorias>666 calorias</calorias>
+                <extras> 
+               <signo hamburgesita="hamburguesa"></signo>
+          </extras>
+       </plato>
+
+        <plato tipo3="Hamburguesas">
+            <title>Burger Transilvania</title>
+            <description>200GR de ternera de Girona, alioli, jamon iberico, queso de cabra y miel acompañadas con patatas fritas</description>
+            <precio>11,95€</precio>
+            <calorias>670 calorias</calorias>
+             <extras> 
+               <signo hamburgesita="hamburguesa"></signo>
+          </extras>
+       </plato>
+
+        <plato tipo3="Hamburguesas">
+            <title>Burger vegetal London vegan</title>
+            <description>Hamburguesa de tomate seco, arandanos, cilantro con mezclum, cebolla fresca, tomate y salsa BBQ acompañadas con patatas fritas</description>
+            <precio>11,95€</precio>
+            <calorias>412 calorias</calorias>
+                <extras> 
+               <signo verdura="vegetal" hamburgesita="hamburguesa"></signo>
+          </extras>
+       </plato>
+
+        <plato tipo3="Hamburguesas">
+            <title>Premium burgel XL</title>
+            <description> 300 GR de ternera de Girona, salsa bbq, triple cheedar, triple bacon crispy, tomate y cebolla caramelizada acompañadas con patatas fritas</description>
+            <precio>11,95€</precio>
+            <calorias>879 calorias</calorias>
+                <extras> 
+               <signo exclusivo="premium" hamburgesita="hamburguesa"></signo>
+          </extras>
+       </plato>
+
+
+       <plato tipo5="Para los peques de casa">
+            <title>Lomo a la plancha</title>
+            <description>Lomito para los niños</description>
+            <precio>9,75€</precio>
+            <calorias>234 calorias</calorias>
+               <extras> 
+               <signo pollito="pollo"></signo>
+          </extras>
+       </plato>
+
+       <plato tipo5="Para los peques de casa">
+            <title>Rueda de salchichas</title>
+            <description>Salchicita con patatitas</description>
+            <precio>9,95€</precio>
+            <calorias>256 calorias</calorias>
+                  <extras> 
+               <signo pollito="pollo"></signo>
+          </extras>
+       </plato>
+
+       <plato tipo5="Para los peques de casa">
+            <title>Nuggets de pollo</title>
+            <description>Pollo recien matado</description>
+            <precio>8,25€</precio>
+            <calorias>321 calorias</calorias>
+                  <extras> 
+               <signo pollito="pollo"></signo>
+          </extras>
+       </plato>
+
+       <plato tipo5="Para los peques de casa">
+            <title>Croquetas de cocido</title>
+            <description>Croquetitas de pollo caseras</description>
+            <precio>9,95€</precio>
+            <calorias>311 calorias</calorias>
+                  <extras> 
+               <signo pollito="pollo"></signo>
+          </extras>
+       </plato>
+
+         <plato tipo5="Para los peques de casa">
+            <title>Delicias de pollo</title>
+            <description>Unas delicias para los niños</description>
+            <precio>11,95€</precio>
+            <calorias>345 calorias</calorias>
+                  <extras> 
+               <signo pollito="pollo"></signo>
+          </extras>
+       </plato>
+
+        <plato tipo6="Brasa">
+            <title>Entrecotte de vaca Gallega 350gr</title>
+            <description>Entrecotte</description>
+            <precio>16,95€</precio>
+            <calorias>555 calorias</calorias>
+             <extras> 
+            <signo vaquita="vaca"></signo>
+          </extras>
+       </plato>
+
+   <plato tipo6="Brasa">
+            <title>Vacio Argentino</title>
+            <description>Es muy Argentino</description>
+            <precio>17,95€</precio>
+            <calorias>688 calorias</calorias>
+       </plato>
+
+ <plato tipo6="Brasa">
+            <title>Butifarra de calaf con judias</title>
+            <description>Los ingredientes producidos por el pueblo</description>
+            <precio>10,50€</precio>
+            <calorias>523 calorias</calorias>
+                     <extras> 
+               <signo verdura="vegetal"></signo>
+          </extras>
+       </plato>
+       
+       <plato tipo6="Brasa">
+            <title>Lagarto iberico</title>
+            <description>Lagarto procedente de Perú</description>
+            <precio>16,95€</precio>
+            <calorias>590 calorias</calorias>
+            <extras> 
+            <signo lagartito="lagarto"></signo>
+          </extras>
+       </plato>
+
+         <plato tipo6="Brasa">
+            <title>Pata de pulpo a la brasa con patata y chimichurri</title>
+            <description>Pulpo comprado en el Mercabarna</description>
+            <precio>18,95€</precio>
+            <calorias>444 calorias</calorias>
+       </plato>
+
+         <plato tipo7="Postres">
+            <title>Pastel de queso</title>
+            <description>Ordeñada de mi oveja</description>
+            <precio>7,95€</precio>
+            <calorias>363 calorias</calorias>
+                <extras> 
+               <signo quesito="queso"></signo>
+          </extras>
+       </plato>
+
+           <plato tipo7="Postres">
+            <title>Flan con nata</title>
+            <description>Es casero</description>
+            <precio>5,45€</precio>
+            <calorias>390 calorias</calorias>
+       </plato>
+
+         <plato tipo7="Postres">
+            <title>Tiramisu</title>
+            <description>Es casero</description>
+            <precio>6,55€</precio>
+            <calorias>278 calorias</calorias>
+       </plato>
+
+             <plato tipo7="Postres">
+            <title>Helados</title>
+            <description>A escoger de fresa,chocolate,vainilla y nata</description>
+            <precio>5,44€</precio>
+            <calorias>675 calorias</calorias>
+                 <extras> 
+               <signo heladito="helado"></signo>
+          </extras>
+       </plato>
+ </menu>

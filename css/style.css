@@ -1,0 +1,70 @@
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital@1&display=swap');
+.row:after {
+    content: "";
+    display: table-cell;
+    clear: both;
+}
+
+h1 {
+    text-align: left;
+}
+
+body {
+    padding-top: 30%;
+    background-image: url("../img/carta.webp");
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vw;
+    padding-left: 5%;
+}
+
+.column-1 {
+    width: 100%;
+    text-align: center;
+}
+
+.column-2 {
+    width: 50%;
+    float: left;
+}
+
+.column-3 {
+    width: 33.33%;
+    float: left;
+}
+
+.column-4 {
+    width: 25%;
+    float: left;
+}
+
+.column-5 {
+    width: 20%;
+    float: left;
+}
+
+.column-6 {
+    width: 16.66%;
+    float: left;
+}
+
+img {
+    width: 20px;
+    color: white;
+}
+
+.iconos p {
+    display: inline;
+    font-size: 0.8vw;
+    padding-left: 0.3vw;
+    padding-right: 0.5vw;
+}
+
+@media only screen and (max-width: 600px) {
+    .column-3 {
+        width: 100%;
+    }
+    .iconos p {
+        width: 100%;
+    }
+}
